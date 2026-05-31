@@ -1,0 +1,58 @@
+# Dashboard de E-commerce - Power BI
+
+## Dashboard Principal
+
+![Dashboard Principal](E-Ecommerce.PNG)
+
+## KPIs Principais
+
+![KPIs](KPIs.PNG)
+
+### Indicadores Desenvolvidos
+
+* Faturamento Total: R$ 11,59 Mi
+* Lucro Total: R$ 3,44 Mi
+* Quantidade de Pedidos: 1.500
+* Ticket Médio: R$ 7,72 mil
+
+## Evolução das Vendas
+
+![Evolução das Vendas](Evolução dos gráficos.PNG)
+
+## Sobre o Projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar conceitos de Business Intelligence e Análise de Dados utilizando Power BI.
+
+A análise foi realizada a partir de uma base de dados com mais de 1.500 registros de vendas de e-commerce.
+
+## Análises Realizadas
+
+* Faturamento por Estado
+* Lucro por Categoria
+* Vendas por Canal
+* Status dos Pedidos
+* Evolução das Vendas por Mês
+
+## Ferramentas Utilizadas
+
+* Power BI
+* Excel
+* DAX
+* Business Intelligence
+
+## Principais Insights
+
+* Estados com maior faturamento: BA, SC e PR
+* Categoria mais lucrativa: Games
+* Canal com maior faturamento: Site
+
+## Arquivos do Projeto
+
+* E-Ecommerce.pbix
+* Ecommerce_BI_1500_Linhas.xlsx
+
+## Autor
+
+Miqueias Soares da Silva
+
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em Banco de Dados, SQL, Power BI e Business Intelligence.
