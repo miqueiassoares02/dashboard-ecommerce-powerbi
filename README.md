@@ -2,9 +2,9 @@
 
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido para praticar conceitos de Business Intelligence utilizando Power BI.
+Este projeto foi desenvolvido com o objetivo de praticar conceitos de Business Intelligence e Análise de Dados utilizando Power BI.
 
-A análise foi realizada sobre uma base com mais de 1.500 registros de vendas de e-commerce.
+A análise foi realizada a partir de uma base de dados com mais de 1.500 registros de vendas de e-commerce, permitindo a criação de indicadores e visualizações para apoio à tomada de decisão.
 
 ## Indicadores Desenvolvidos
 
@@ -34,8 +34,13 @@ A análise foi realizada sobre uma base com mais de 1.500 registros de vendas de
 * Categoria mais lucrativa: Games
 * Canal com maior faturamento: Site
 
+## Objetivo
+
+Transformar dados em informações estratégicas por meio de dashboards interativos, facilitando a análise de desempenho comercial e operacional.
+
 ## Autor
 
 Miqueias Soares da Silva
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em Banco de Dados, SQL e Business Intelligence.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em Banco de Dados, SQL, Power BI e Business Intelligence.
+
