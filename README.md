@@ -17,7 +17,7 @@ Projeto desenvolvido em Power BI para análise de dados de e-commerce, utilizand
 
 ## Evolução das Vendas
 
-![Evolução](Evolução dos gráficos.PNG)
+![Evolução das Vendas](evolucao_vendas.png)
 
 ## Análises Realizadas
 
